@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Roberto Scalas
-- 👀 I’m interested in AI, Machine Learning, Robotics, python.
-- 🌱 I’m currently learning Robotics, CNN
+- 👀 I’m interested in Data Analysis, AI, Machine Learning, Robotics.
+- 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me -> scalas.roberto@gmail.com
 
