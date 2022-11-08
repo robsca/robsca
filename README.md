@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Roberto Scalas
+- 👋 Hi, My name is Robbie
 - 👀 I’m interested in Data Analysis, AI, Machine Learning, Robotics.
 - 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to collaborate
